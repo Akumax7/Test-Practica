@@ -1,0 +1,24 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+    background-color: rgb(125, 11, 231);
+}
+p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+}
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
